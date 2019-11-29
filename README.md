@@ -1,14 +1,14 @@
 # procs.md
-⊕ [Home - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/Home)
-⊕ [OFBiz Features - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Features)
+* [Home - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/Home)
+* [OFBiz Features - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Features)
 
-⊕ [The Apache OFBiz® Project - Source Repository](http://ofbiz.apache.org/source-repositories.html)
-	⊕ [apache/ofbiz-framework: Mirror of Apache OFBiz Framework](https://github.com/apache/ofbiz-framework)
-	⊕ [apache/ofbiz-plugins: Mirror of Apache OFBiz Plugins](https://github.com/apache/ofbiz-plugins)
-⊕ [The Apache OFBiz® Project - Developers](http://ofbiz.apache.org/developers.html)
-⊕ [apache/ofbiz-framework: Mirror of Apache OFBiz Framework](https://github.com/apache/ofbiz-framework)
-⊕ [Apache OFBiz技术生产设置指南 - OFBiz项目开放维基 - Apache软件基金会](https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+Technical+Production+Setup+Guide#ApacheOFBizTechnicalProductionSetupGuide-RunningOFBiz)
-⊕ [OFBiz Tutorial - A Beginners Development Guide - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Tutorial+-+A+Beginners+Development+Guide)
+* [The Apache OFBiz® Project - Source Repository](http://ofbiz.apache.org/source-repositories.html)
+	* [apache/ofbiz-framework: Mirror of Apache OFBiz Framework](https://github.com/apache/ofbiz-framework)
+	* [apache/ofbiz-plugins: Mirror of Apache OFBiz Plugins](https://github.com/apache/ofbiz-plugins)
+* [The Apache OFBiz® Project - Developers](http://ofbiz.apache.org/developers.html)
+* [apache/ofbiz-framework: Mirror of Apache OFBiz Framework](https://github.com/apache/ofbiz-framework)
+* [Apache OFBiz技术生产设置指南 - OFBiz项目开放维基 - Apache软件基金会](https://cwiki.apache.org/confluence/display/OFBIZ/Apache+OFBiz+Technical+Production+Setup+Guide#ApacheOFBizTechnicalProductionSetupGuide-RunningOFBiz)
+* [OFBiz Tutorial - A Beginners Development Guide - OFBiz Project Open Wiki - Apache Software Foundation](https://cwiki.apache.org/confluence/display/OFBIZ/OFBiz+Tutorial+-+A+Beginners+Development+Guide)
 	最终由Mathieu Lirzin修改于四月19,2018
 	本教程适用于具有很少或没有OFBiz经验的初学者。它涵盖了OFBiz应用程序开发过程的基础知识。目标是使开发人员熟悉最佳实践，编码约定，基本控制流以及开发人员对OFBiz定制所需的所有其他方面。
 	本教程将帮助您在OFBiz中构建您的第一个“演示应用程序”。
